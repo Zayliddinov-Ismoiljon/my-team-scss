@@ -1,0 +1,82 @@
+.team{
+    margin: 0 auto;
+    padding-top: 140px;
+    padding-bottom: 140px;
+    background-image: url(../../image/team-bg.jpg);
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 684px;
+    top: 0;
+    left: 0;
+}
+
+.team__about{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+.team__div{
+    margin: 0;
+    padding: 0;
+    width: 445px;
+}
+
+.team__span{
+    width: 50px;
+    height: 4px;
+    background-color: #F67E7E;
+    display: block;
+    margin-bottom: 54px;
+    padding: 0;
+}
+
+.team__text{
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+.team__list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.team__item{
+    width: 540px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 32px;
+    padding: 0;
+}
+
+.team__image{
+    width: 72px;
+    height: 72px;
+    margin: 0;
+    padding: 0;
+}
+
+.team__info{
+    margin: 0;
+    padding: 0;
+    width: 445px;
+}
+
+.team__strong{
+    font-size: 18px;
+    font-weight: 700;
+    color: #F67E7E;
+    margin: 0;
+    padding: 0;
+}
+
+.team__text1{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 16px;
+    padding: 0;
+}
